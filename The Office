@@ -19,7 +19,9 @@ h2 {
 }
 p {
   font-size:120%;
+ padding: 25px;
 }
+
   
 </style>
 
@@ -27,12 +29,9 @@ p {
 
 <body>
 
+<img src="https://img.nbc.com/sites/nbcunbc/files/images/2016/1/19/MDot-TheOffice-640x360-MP.jpg" align="right">
 
-<iframe align="middle" width="660" height="415" src="https://www.youtube.com/embed/Djs7pEZkOPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-<br>
-<br>
-<br>
+
 <p>The Office is a US adaption of the UK version starring Ricky Gervais. It follows the staff and their everyday work life at Dunder-Mifflin selling paper. 
 That may sound boring, but you will quickly make connections with the likable characters that all bring different elements to the show. 
 <br>
@@ -40,7 +39,12 @@ That may sound boring, but you will quickly make connections with the likable ch
 The first episode aired March 24, 2005, and ended May 16, 2013 lasting for 9 seasons. 
 Some of the actors and actresses were actually writers of the show such as B.J. Novak, Michael Schur, and Mindy Kaling.
 You can just pick any episode to watch and it will be funny and interesting. It's an easy show to get hooked on.
+<br>
+<br>
+<br>
+<br>
+<iframe align="middle" width="660" height="415" src="https://www.youtube.com/embed/Djs7pEZkOPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </p>
 </body>
 </html>
-
