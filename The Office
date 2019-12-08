@@ -8,6 +8,9 @@
 
 <body>
 
+<h1 style="text-align:center;">Centered Heading</h1>
+<p style="text-align:center;">Centered paragraph.</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Djs7pEZkOPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
